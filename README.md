@@ -1,5 +1,5 @@
 
-# Tabular Review for Lawyers
+# Tabular Review for Bulk Document Analysis
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/framework-React-61DAFB.svg)
